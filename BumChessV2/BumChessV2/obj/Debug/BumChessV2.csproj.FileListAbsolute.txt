@@ -1,0 +1,12 @@
+c:\users\lexicon\documents\visual studio 2015\Projects\BumChessV2\BumChessV2\bin\Debug\BumChessV2.exe.config
+c:\users\lexicon\documents\visual studio 2015\Projects\BumChessV2\BumChessV2\obj\Debug\BumChessV2.csprojResolveAssemblyReference.cache
+c:\users\lexicon\documents\visual studio 2015\Projects\BumChessV2\BumChessV2\obj\Debug\BumChessV2.Form1.resources
+c:\users\lexicon\documents\visual studio 2015\Projects\BumChessV2\BumChessV2\obj\Debug\BumChessV2.Properties.Resources.resources
+c:\users\lexicon\documents\visual studio 2015\Projects\BumChessV2\BumChessV2\obj\Debug\BumChessV2.csproj.GenerateResource.Cache
+c:\users\lexicon\documents\visual studio 2015\Projects\BumChessV2\BumChessV2\bin\Debug\BumChessV2.exe
+c:\users\lexicon\documents\visual studio 2015\Projects\BumChessV2\BumChessV2\bin\Debug\BumChessV2.pdb
+c:\users\lexicon\documents\visual studio 2015\Projects\BumChessV2\BumChessV2\obj\Debug\BumChessV2.exe
+c:\users\lexicon\documents\visual studio 2015\Projects\BumChessV2\BumChessV2\obj\Debug\BumChessV2.pdb
+F:\BumChessV2\BumChessV2\bin\Debug\BumChessV2.exe.config
+F:\BumChessV2\BumChessV2\obj\Debug\BumChessV2.exe
+F:\BumChessV2\BumChessV2\obj\Debug\BumChessV2.pdb
